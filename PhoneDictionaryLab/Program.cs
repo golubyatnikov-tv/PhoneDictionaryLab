@@ -10,6 +10,7 @@ namespace PhoneDictionaryLab
     {
         static void Main(string[] args)
         {
+            // TODO CommandLoop and start it
         }
     }
 }
